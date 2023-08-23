@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis
+# E-COMMERCE SALES ANALYSIS
 
 ### Objective
 Design an E-commerce Sales Analysis Dashboard to analyze the various **KPIs** like Sales, Profit, Profit Margin, Year on Year growth, etc., based on year, product categories, region, etc. 
